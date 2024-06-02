@@ -7,7 +7,7 @@
 
 
 This is an individual challenge at the Swift Marathon.
-The task2 is create an application with artists and their works using the API 🖼️
+The task2 is to create an application with artists and their works using the API 🖼️
 
 ## Documentation
 
